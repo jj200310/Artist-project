@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+
+}
+ul{
+display:flex
+
+}
+.paragraph{
+display:flex;
+flex-flow: wrap;
+padding: 20px;
+
+}
+.border{
+border-style: solid;margin: 10px;    
+
+}
+.navlinks > li{
+display:flex;
+align-content: space-between;
+padding-right: 10px; padding-right: 10px;
+}
